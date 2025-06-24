@@ -1,0 +1,11 @@
+## Git Notes
+### Основные команды:
+- git init
+- git clone
+- git add
+- git commit
+- git push
+- git pull
+- git branch
+- git checkout
+- git merge
